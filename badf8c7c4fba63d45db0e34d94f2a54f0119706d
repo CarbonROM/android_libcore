@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher C249223A 1500060801 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_libcore\nnonce 1500061437-42F854EF21BC924CAB338432A7FBEAA053FB88CD\n\n0000000000000000000000000000000000000000 badf8c7c4fba63d45db0e34d94f2a54f0119706d refs/for/cr-5.1%topic\u003dmoto-libcore\n-----BEGIN PGP SIGNATURE-----\n\niQEcBAABAgAGBQJZaRyBAAoJEJ8pB5zCSSI6SIoH/jFD8f8/P6F9znxb0HDau5aq\nRbw8/KxKGFblrBKAOQqQg44bR4mFQ8cPedl2mJQG5eWfCTNzjbGYEtgV3Pwgn8yA\ng7erSKFOxp+Fb3I4eOkI62bxhfHXoaA4JA73ebcQGd43+yCWqTBuj1vBo1m59oDd\niK2CFNwS9erDu0ib7/U5YnJG6Tvmp8hMvWR4t+burcpXUpHXkkS40vuFZLC1Hdcj\nH7x4xADG7lYEESphONyZtRSYSWecgKemKM1mb2kplVgCe1lbR3xGdMn9dU7A7nhm\nFKQEbkfAYY9L9a45mD1t+PymkneBLQQQo3F420EbFNSuxK1N7MtLl+zPrUwmq6c\u003d\n\u003d6JTe\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
